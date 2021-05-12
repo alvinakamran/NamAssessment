@@ -1,0 +1,11 @@
+{
+    "env": {
+        "url": "https://cc.healthrecoverysolutions.com/login"
+    },
+
+    "baseUrl": "https://cc.healthrecoverysolutions.com",
+
+        "viewportWidth": 1366,
+        "viewportHeight": 768
+    
+}
